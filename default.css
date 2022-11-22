@@ -20,7 +20,7 @@ a {color: #963;}
 a:hover {color: #C60;}
 
 body {
-	background: #CCD8E0 url(img/108776.jpg) repeat-x left bottom;
+	background: #CCD8E0 url(img/bg.jpg) repeat-x left bottom;
 	color: #444;
 	font: normal 62.5% Tahoma,sans-serif;
 }
@@ -93,7 +93,7 @@ h1,h2,h3 {padding-top: 6px;}
 	height: 150px;	
 }
 .header .left {
-	background: #B3C2C7 url(img/107195.jpg) no-repeat;
+	background: #B3C2C7 url(img/header.jpg) no-repeat;
 	font: normal 2.8em "Trebuchet MS",sans-serif;
 	line-height: 150px;
 	text-align: center;	
